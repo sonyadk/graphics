@@ -4,4 +4,4 @@
 
 _Авторы проекта: Логинова Софья и Шульман Эмиль_
 
-[https://youtube.com/shorts/heCcG_OdZow?feature=share](Ссылка на видео с демонстрацией работы)
+(https://youtube.com/shorts/heCcG_OdZow?feature=share)[Ссылка на видео с демонстрацией работы]
